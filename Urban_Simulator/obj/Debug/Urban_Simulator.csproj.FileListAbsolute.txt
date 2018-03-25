@@ -1,0 +1,6 @@
+C:\Users\admin\Documents\_STUD\IDDA\UrbanSimulator\Urban_Simulator\Urban_Simulator\bin\Urban_Simulator.dll
+C:\Users\admin\Documents\_STUD\IDDA\UrbanSimulator\Urban_Simulator\Urban_Simulator\bin\Urban_Simulator.pdb
+C:\Users\admin\Documents\_STUD\IDDA\UrbanSimulator\Urban_Simulator\Urban_Simulator\obj\Debug\Urban_Simulator.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\_STUD\IDDA\UrbanSimulator\Urban_Simulator\Urban_Simulator\obj\Debug\Urban_Simulator.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\_STUD\IDDA\UrbanSimulator\Urban_Simulator\Urban_Simulator\obj\Debug\Urban_Simulator.dll
+C:\Users\admin\Documents\_STUD\IDDA\UrbanSimulator\Urban_Simulator\Urban_Simulator\obj\Debug\Urban_Simulator.pdb
